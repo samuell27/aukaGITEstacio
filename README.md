@@ -1,2 +1,2 @@
-# aukaGITEstacio
+# aulaGITEstacio
 Primeiro projeto com GIT
